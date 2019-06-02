@@ -1,7 +1,7 @@
 # Plain English Summarization of Contracts
 
 
-Please cite our [NAACL NLLP Workshop paper](http://arxiv.org/abs/) as:
+Please cite our [NAACL NLLP Workshop paper](https://sites.google.com/view/nllp/) as:
 
 ```
 @inproceedings{Manor:2019,
