@@ -1,16 +1,20 @@
 # Plain English Summarization of Contracts
 
 
-Please cite our [NAACL NLLP Workshop paper](https://sites.google.com/view/nllp/) as:
+Please cite our [NAACL NLLP Workshop paper](https://www.aclweb.org/anthology/events/ws-2019/#w19-22) as:
 
 ```
-@inproceedings{Manor:2019,
-  title={Plain English Summarization of Contracts},
-  author={Manor,Laura and Li, Junyi Jessy},
-  booktitle={Proceedings of the 1st Workshop on Natural Legal Language Processing},
-  publisher ="Association for Computational Linguistics",
-  pages={in press},
-  year={2019}
+@inproceedings{manor-li-2019-plain,
+    title = "Plain {E}nglish Summarization of Contracts",
+    author = "Manor, Laura  and
+      Li, Junyi Jessy",
+    booktitle = "Proceedings of the Natural Legal Language Processing Workshop 2019",
+    month = jun,
+    year = "2019",
+    address = "Minneapolis, Minnesota",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/W19-2201",
+    pages = "1--11",
 }
 ```
 
